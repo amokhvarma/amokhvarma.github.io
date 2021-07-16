@@ -1,6 +1,6 @@
-title: "Kathryn Schuler"
-author: "Katie Schuler"
-description: "University of Pennsylvania"
+title: "Amokh Varma"
+author: "Amokh Varma"
+description: "Indian Institute of Technology, Delhi"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -21,9 +21,9 @@ navigation:
   - {title: "Blog", file: "blog.md"}
 
 external:                  # see http://fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:kathryn.schuler@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/kschuler"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/kathrynschuler"}
+  - {title: Mail, icon: envelope, url: "amokhvarma@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/amokhvarma"}
+  - {title: Instagram, icon: instagram-square , url: "https://www.instagram.com/amokhvarma/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
