@@ -23,7 +23,7 @@ navigation:
 external:                  # see http://fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:amokhvarma@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/amokhvarma"}
-  - {title: Instagram, icon: instagram-square , url: "https://www.instagram.com/amokhvarma/"}
+  - {title: Instagram, icon: instagram , url: "https://www.instagram.com/amokhvarma/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
