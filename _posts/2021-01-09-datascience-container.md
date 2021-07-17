@@ -14,7 +14,9 @@ You'll need to install [docker](https://docs.docker.com/get-docker/) on your mac
 ```
 git clone https://github.com/pennchildlanglab/docker-compose-demo.git
 ```
-
+$$
+\int_{0}{1} x^2 dx
+$$
 
 ## Docker compose
 
