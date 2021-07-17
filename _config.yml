@@ -18,7 +18,7 @@ show_sidebar: false        # show a sidebar instead of the usual header
 navigation:
   - {title: "CV", url: "/2018MT60527_3rdYear.pdf", icon: newspaper}
   #- {title: "Lab", url: "https://childlanglab.com"}
-  - {title: "Projects", file: "Projects.md",icon: project}
+  - {title: "Projects", file: "Projects.md",icon: project-diagram}
 
 external:                  # see http://fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:amokhvarma@gmail.com"}
