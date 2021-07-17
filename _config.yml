@@ -11,14 +11,14 @@ date_format: "%B %d, %Y"
 show_social: true          # show site description and social links in the footer
 show_excerpts: true        # show article excerpts on the home page
 show_frame: false        # adds a gray frame to the site
-show_sidebar: true        # show a sidebar instead of the usual header
+show_sidebar: false        # show a sidebar instead of the usual header
 
 # Menu
 
 navigation:
   - {title: "CV", url: "/2018MT60527_3rdYear.pdf", icon: newspaper}
   #- {title: "Lab", url: "https://childlanglab.com"}
-  - {title: "Projects", file: "Projects.md"}
+  - {title: "Projects", file: "Projects.md",icon: project}
 
 external:                  # see http://fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:amokhvarma@gmail.com"}
