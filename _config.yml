@@ -17,7 +17,7 @@ show_sidebar: true        # show a sidebar instead of the usual header
 
 navigation:
   - {title: "Amokh Varma", url: "amokhvarma.github.io", icon: person-booth}
-  - {title: "CV", url: "/2018MT60527_3rdYear.pdf", icon: newspaper}
+  - {title: "CV", url: "/Current_CV.pdf", icon: newspaper}
   #- {title: "Lab", url: "https://childlanglab.com"}
   - {title: "Projects", file: "Projects.md",icon: project-diagram}
 
