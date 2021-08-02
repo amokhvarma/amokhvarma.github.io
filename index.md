@@ -4,7 +4,7 @@ title: ""
 ---
 ![Alt text](Amokh_Img.jpeg?raw=true "Title")
 ## WELCOME !!
-I am Amokh and this is my personal website. I'm an Integrated Master's + Bachelor's student in the [Maths Department](https://maths.iitd.ac.in/drupal/) at the [Indian Institute of Technology, Delhi](https://home.iitd.ac.in/). I am currently in my 4th year (joined 2018) . This website serves as a brief introduction to me and my interests. If you go over to the left, you can see my CV and a brief description of my projects. Further, you can reach me using the email icon at the botom right. You can also find my github link there :) . Let's dive right in : 
+I am Amokh and this is my personal website. I'm an Integrated Master's + Bachelor's student in the [Maths Department](https://maths.iitd.ac.in/drupal/) at the [Indian Institute of Technology, Delhi](https://home.iitd.ac.in/). I am currently in my 4th year (joined 2018) . This website serves as a brief introduction to me and my interests. If you go over to the left, you can see my CV and a brief description of my projects. Further, you can reach me using the email icon at the left. You can also find my github link there :) . Let's dive right in : 
 
 ## Academic Background
 ### Mtech in Maths and Computation
