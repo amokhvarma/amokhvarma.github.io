@@ -1,7 +1,7 @@
 ---
 title:  "First Post"
 mathjax: true
-author: katie
+author: Amokh
 category: jupyter
 ---
 ### First Post
